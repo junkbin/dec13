@@ -1,0 +1,3 @@
+rootProject.name = 'DEC13'
+
+include ':app'
